@@ -19,19 +19,19 @@ const Navbar = () => {
               Home
             </Link>
             <Link
-              to="/About"
+              to="/about"
               className="text-white bg-cyan-800 border-2 rounded-md drop-shadow hover:-translate-y-1 hover:drop-shadow-lg text-2xl px-3 py-2"
             >
               About
             </Link>
             <Link
-              to="/Resume"
+              to="/resume"
               className="text-white bg-cyan-800 border-2 rounded-md drop-shadow hover:-translate-y-1 hover:drop-shadow-lg text-2xl px-3 py-2"
             >
               Resume
             </Link>
             <Link
-              to="/Projects"
+              to="/projects"
               className="text-white bg-cyan-800 border-2 rounded-md drop-shadow hover:-translate-y-1 hover:drop-shadow-lg text-2xl px-3 py-2"
             >
               Projects
